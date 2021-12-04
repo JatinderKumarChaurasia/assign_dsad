@@ -1,0 +1,5 @@
+Manasa / Data Structures / Compiler Design / Software Engineering
+Venkat / Data Structures / Software Architecture / Cloud Computing / Distributed Computing
+Paul / Algorithm Design / Software Testing/ Data Storage Technologies
+Harry/Cloud Computing / Distributed Computing
+Mary/Software Architecture/ Software Engineering
