@@ -1,55 +1,38 @@
+------------------Function displayHireList------------------
 
---------Function showAll--------
-Total No. of Candidates:  5
-Total No. of Subjects:  9
+No of candidates required to cover most of the courses: 6
 
-List of Candidates: 
-Manasa
-Venkat
+Manasa/Data Structures/Software Engineering/Compiler Design
+Paul/Data Structures/Algorithm Design
+Sanjay/Distributed Computing/Data Storage Technologies
+Amjad/Cloud Computing
+Parul/Software Testing
+Nisha/Software Architecture
+
+
+------------------Function displayCandidates------------------
+
+List of Candidates who can handle Data Strcutures : 
+
+
+
+------------------Function displayCandidates------------------
+
+List of Candidates who can handle Algorithm Design : 
+
 Paul
-Harry
-Mary
-
-List of Courses:
-
-Software Engineering
-Software Testing
-Algorithm Design
-Distributed Computing
-Data Structures
-Compiler Design
-Software Architecture
-Data Storage Technologies
-Cloud Computing
+Rahul
 
 
---------Function displayHireList--------
-No of candidates required to cover most of the courses:  3
-Venkat / Data Structures / Software Architecture / Cloud Computing / Distributed Computing
-Manasa / Data Structures / Compiler Design / Software Engineering
-Paul / Algorithm Design / Software Testing / Data Storage Technologies
+------------------Function findCourseInstructors------------------
 
+Part A: Data Structures
 
-----------------------Function displayCandidates --------
-List of Candidates who can handle :  Data Structures
-Manasa
-Venkat
+Part B: Algorithm Design
 
+Course Instructors: 
 
-----------------------Function displayCandidates --------
-List of Candidates who can handle :  Algorithm Design
-Paul
+Part A: Manasa,Paul,Rohan
 
-
-----------------------Function displayCandidates --------
-List of Candidates who can handle :  Algor
-no course found with that name in database  Algor
-
-
-
--------Function findCourseInstructors --------
-Part A: List of Candidates who can handle :  Data Structure
-Part B: List of Candidates who can handle :  Algorithm Design
-Part A: No instructor found for that course:  Data Structure
-Part B:  ['Paul']
+Part B: Paul,Rahul
 

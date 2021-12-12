@@ -1,0 +1,32 @@
+------------------Function showAll------------------
+
+Total no. of candidates: 12
+Total no. of Courses: 9
+
+List of candidates: 
+
+Manasa
+Harish
+Paul
+Amjad
+Parul
+Nisha
+Rohan
+Rahul
+Sanjay
+Surya
+Venkat
+Zubin
+
+
+List of Courses: 
+
+Data Structures
+Software Engineering
+Compiler Design
+Algorithm Design
+Cloud Computing
+Software Testing
+Software Architecture
+Distributed Computing
+Data Storage Technologies
