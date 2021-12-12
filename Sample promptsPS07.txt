@@ -1,0 +1,7 @@
+showAll
+showMinList
+searchCourse: Data Structures
+searchCourse: Algorithm Design
+searchCourse: Algor
+Part A: Data Structure
+Part B: Algorithm Design
