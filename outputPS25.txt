@@ -1,7 +1,7 @@
 ------------------Function showAll------------------
 
-Total no. of candidates: 16
-Total no. of Courses: 12
+Total no. of candidates: 13
+Total no. of Courses: 10
 
 List of candidates: 
 
@@ -18,9 +18,6 @@ Sanjay
 Surya
 Venkat
 Zubin
-Sayukta
-
-
 
 
 List of Courses: 
@@ -35,5 +32,3 @@ Software Architecture
 Distributed Computing
 Data Storage Technologies
 Data Storage
-
-SE

@@ -1,5 +1,5 @@
 showMinList
-searchCourse: Data Strcutures
+searchCourse: Data Structures
 searchCourse: Algorithm Design
 Part A: Data Structures
-Part B: 
+Part B: Data Storage

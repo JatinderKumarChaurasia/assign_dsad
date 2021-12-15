@@ -11,6 +11,3 @@ Sanjay/Distributed Computing/Data Storage Technologies/Data Storage
 Surya/Data Storage Technologies
 Venkat/Distributed Computing
 Zubin/Software Engineering
-Sayukta/
-/SE
-/
