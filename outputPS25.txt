@@ -1,7 +1,7 @@
 ------------------Function showAll------------------
 
-Total no. of candidates: 12
-Total no. of Courses: 9
+Total no. of candidates: 16
+Total no. of Courses: 12
 
 List of candidates: 
 
@@ -12,11 +12,15 @@ Amjad
 Parul
 Nisha
 Rohan
+Rohit
 Rahul
 Sanjay
 Surya
 Venkat
 Zubin
+Sayukta
+
+
 
 
 List of Courses: 
@@ -30,3 +34,6 @@ Software Testing
 Software Architecture
 Distributed Computing
 Data Storage Technologies
+Data Storage
+
+SE

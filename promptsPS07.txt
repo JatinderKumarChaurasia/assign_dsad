@@ -2,4 +2,4 @@ showMinList
 searchCourse: Data Strcutures
 searchCourse: Algorithm Design
 Part A: Data Structures
-Part B: Algorithm Design
+Part B: 

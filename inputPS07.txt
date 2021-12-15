@@ -5,8 +5,12 @@ Amjad/Cloud Computing
 Parul/Software Testing
 Nisha/Software Architecture
 Rohan/Data Structures
+Rohit/Data Structures
 Rahul/Algorithm Design
-Sanjay/Distributed Computing/Data Storage Technologies
+Sanjay/Distributed Computing/Data Storage Technologies/Data Storage
 Surya/Data Storage Technologies
 Venkat/Distributed Computing
 Zubin/Software Engineering
+Sayukta/
+/SE
+/

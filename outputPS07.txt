@@ -36,3 +36,325 @@ Part A: Manasa,Paul,Rohan
 
 Part B: Paul,Rahul
 
+------------------Function displayHireList------------------
+
+No of candidates required to cover most of the courses: 6
+
+Manasa/Data Structures/Software Engineering/Compiler Design
+Paul/Data Structures/Algorithm Design
+Sanjay/Distributed Computing/Data Storage Technologies
+Amjad/Cloud Computing
+Parul/Software Testing
+Nisha/Software Architecture
+
+
+------------------Function displayCandidates------------------
+
+List of Candidates who can handle Data Strcutures : 
+
+
+
+------------------Function displayCandidates------------------
+
+List of Candidates who can handle Algorithm Design : 
+
+Paul
+Rahul
+
+
+------------------Function findCourseInstructors------------------
+
+Part A: Data Structures
+
+Part B: Algorithm Design
+
+Course Instructors: 
+
+Part A: Manasa,Paul,Rohan
+
+Part B: Paul,Rahul
+
+------------------Function displayHireList------------------
+
+No of candidates required to cover most of the courses: 8
+
+Manasa/Data Structures/Software Engineering/Compiler Design
+Paul/Data Structures/Algorithm Design
+Sanjay/Distributed Computing/Data Storage Technologies
+Amjad/Cloud Computing
+Parul/Software Testing
+Nisha/Software Architecture
+Sayukta/
+/SE
+
+
+------------------Function displayCandidates------------------
+
+List of Candidates who can handle Data Strcutures : 
+
+
+
+------------------Function displayCandidates------------------
+
+List of Candidates who can handle Algorithm Design : 
+
+Paul
+Rahul
+
+
+------------------Function findCourseInstructors------------------
+
+Part A: Data Structures
+
+Part B: Algorithm Design
+
+Course Instructors: 
+
+Part A: Manasa,Paul,Rohan
+
+Part B: Paul,Rahul
+
+------------------Function displayHireList------------------
+
+No of candidates required to cover most of the courses: 8
+
+Manasa/Data Structures/Software Engineering/Compiler Design
+Paul/Data Structures/Algorithm Design
+Sanjay/Distributed Computing/Data Storage Technologies
+Amjad/Cloud Computing
+Parul/Software Testing
+Nisha/Software Architecture
+Sayukta/
+/SE
+
+
+------------------Function displayCandidates------------------
+
+List of Candidates who can handle Data Strcutures : 
+
+
+
+------------------Function displayCandidates------------------
+
+List of Candidates who can handle Algorithm Design : 
+
+Paul
+Rahul
+
+
+------------------Function findCourseInstructors------------------
+
+Part A: Data Structures
+
+Part B: 
+
+Course Instructors: 
+
+Part A: Manasa,Paul,Rohan
+
+Part B: Sayukta,,
+
+------------------Function displayHireList------------------
+
+No of candidates required to cover most of the courses: 8
+
+Manasa/Data Structures/Software Engineering/Compiler Design
+Sanjay/Distributed Computing/Data Storage Technologies/Data Storage
+Paul/Data Structures/Algorithm Design
+Amjad/Cloud Computing
+Parul/Software Testing
+Nisha/Software Architecture
+Sayukta/
+/SE
+
+
+------------------Function displayCandidates------------------
+
+List of Candidates who can handle Data Strcutures : 
+
+
+
+------------------Function displayCandidates------------------
+
+List of Candidates who can handle Algorithm Design : 
+
+Paul
+Rahul
+
+
+------------------Function findCourseInstructors------------------
+
+Part A: Data Structures
+
+Part B: 
+
+Course Instructors: 
+
+Part A: Manasa,Paul,Rohan
+
+Part B: Sayukta,,
+
+------------------Function displayHireList------------------
+
+No of candidates required to cover most of the courses: 8
+
+Manasa/Data Structures/Software Engineering/Compiler Design
+Sanjay/Distributed Computing/Data Storage Technologies/Data Storage
+Paul/Data Structures/Algorithm Design
+Amjad/Cloud Computing
+Parul/Software Testing
+Nisha/Software Architecture
+Sayukta/
+/SE
+------------------Function displayHireList------------------
+
+No of candidates required to cover most of the courses: 0
+
+
+
+------------------Function displayCandidates------------------
+
+List of Candidates who can handle Data Strcutures : 
+
+
+
+------------------Function displayCandidates------------------
+
+List of Candidates who can handle Algorithm Design : 
+
+Paul
+Rahul
+
+
+------------------Function findCourseInstructors------------------
+
+Part A: Data Structures
+
+Part B: 
+
+Course Instructors: 
+
+Part A: Manasa,Paul,Rohan
+
+Part B: Sayukta,,
+
+------------------Function displayHireList------------------
+
+No of candidates required to cover most of the courses: 8
+
+Manasa/Data Structures/Software Engineering/Compiler Design
+Sanjay/Distributed Computing/Data Storage Technologies/Data Storage
+Paul/Data Structures/Algorithm Design
+Amjad/Cloud Computing
+Parul/Software Testing
+Nisha/Software Architecture
+Sayukta/
+/SE
+
+
+------------------Function displayCandidates------------------
+
+List of Candidates who can handle Data Strcutures : 
+
+
+
+------------------Function displayCandidates------------------
+
+List of Candidates who can handle Algorithm Design : 
+
+Paul
+Rahul
+
+
+------------------Function findCourseInstructors------------------
+
+Part A: Data Structures
+
+Part B: 
+
+Course Instructors: 
+
+Part A: Manasa,Paul,Rohan,Rohit
+
+Part B: Sayukta,,
+
+------------------Function displayHireList------------------
+
+No of candidates required to cover most of the courses: 8
+
+Manasa/Data Structures/Software Engineering/Compiler Design
+Sanjay/Distributed Computing/Data Storage Technologies/Data Storage
+Paul/Data Structures/Algorithm Design
+Amjad/Cloud Computing
+Parul/Software Testing
+Nisha/Software Architecture
+Sayukta/
+/SE
+
+
+------------------Function displayCandidates------------------
+
+List of Candidates who can handle Data Strcutures : 
+
+
+
+------------------Function displayCandidates------------------
+
+List of Candidates who can handle Algorithm Design : 
+
+Paul
+Rahul
+
+
+------------------Function findCourseInstructors------------------
+
+Part A: Data Structures
+
+Part B: 
+
+Course Instructors: 
+
+Part A: Manasa,Paul,Rohan,Rohit
+
+Part B: Sayukta,,
+
+------------------Function displayHireList------------------
+
+No of candidates required to cover most of the courses: 8
+
+Manasa/Data Structures/Software Engineering/Compiler Design
+Sanjay/Distributed Computing/Data Storage Technologies/Data Storage
+Paul/Data Structures/Algorithm Design
+Amjad/Cloud Computing
+Parul/Software Testing
+Nisha/Software Architecture
+Sayukta/
+/SE
+
+
+------------------Function displayCandidates------------------
+
+List of Candidates who can handle Data Strcutures : 
+
+
+
+------------------Function displayCandidates------------------
+
+List of Candidates who can handle Algorithm Design : 
+
+Paul
+Rahul
+
+
+------------------Function findCourseInstructors------------------
+
+Part A: Data Structures
+
+Part B: 
+
+Course Instructors: 
+
+Part A: Manasa,Paul,Rohan,Rohit
+
+Part B: Sayukta,,
+
